@@ -2,7 +2,7 @@
 
 This repository contains a sample to apply point color to the tracker in the radial bar series of [Syncfusion Flutter Chart](https://help.syncfusion.com/flutter/circular-charts/getting-started) widget.
 
-Please refer the KB through this [link](https://www.syncfusion.com/kb/13419/how-to-make-the-marker-visible-for-a-particular-point-alone-in-the-cartesian-chart).
+Please refer the KB through this [link](https://www.syncfusion.com/kb/13180/how-to-apply-point-color-to-the-tracker-in-the-radial-bar-series-sfcircularchart).
 
 ## Syncfusion controls:
 
